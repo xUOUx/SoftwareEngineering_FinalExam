@@ -1,6 +1,6 @@
 # 計算機畢業設計SSM員工宿舍管理系統
 11024241陳俊佑 
-11024232 林政彥
+11024232林政彥
 
 ## 環境配置：
 `Jdk1.8 + Tomcat7.0 + Mysql + HBuilderX（Webstorm也行）+ Eclispe（IntelliJ IDEA,Eclispe,MyEclispe,Sts都支援）。`
